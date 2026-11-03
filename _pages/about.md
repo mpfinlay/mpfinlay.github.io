@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /al-folio
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
